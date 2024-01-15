@@ -17,6 +17,6 @@ I'm Dmytro Markuntovych a Junior Software Engineer with more than 2 years of exp
 [![HTML5 Badge](https://img.shields.io/badge/HTML5-e34f26?style=for-the-badge&logo=HTML5&logoColor=%23e34f26&labelColor=%23000)](#)
 [![CSS3 Badge](https://img.shields.io/badge/CSS3-1572b6?style=for-the-badge&logo=CSS3&logoColor=%231572b6&labelColor=%23000)](#)
 
-<hr />
+<br />
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CarphatianSnake&layout=compact&theme=ocean_dark)](#)
