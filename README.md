@@ -1,6 +1,6 @@
 ### Hi, I'm Dmytro  
 
-I'm Dmytro Markuntovych a Junior Software Engineer with more than 2 years of experience in study projects. I'm experienced in Front-End developement. I'm really motivated to develop and grow as Front-End and Back-End developer.
+I'm Dmytro Markuntovych a Junior Software Engineer with more than 2 years of experience in study projects. I'm experienced in Front-End developement and really motivated to develop and grow as Front-End and Back-End developer.
 
 📫 Reach me out!
 
